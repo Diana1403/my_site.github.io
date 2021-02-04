@@ -1,0 +1,385 @@
+body {
+    background-color: rgba(222, 226, 230, 1);
+
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.card-photo2 {
+    margin-left: 890px;
+
+    top: 50px;
+    border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    display: flow-root;
+    position: absolute;
+}
+
+.card-text {
+    margin-left: 500px;
+    margin-right: 400px;
+    font-family: monospace;
+    margin-top: 100px;
+    margin-top: 147px;
+    font-size: 20px;
+}
+
+
+.card-text2 {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.line {
+    background-color: azure;
+    width: 100em;
+    height: 500px;
+    border: solid;
+
+}
+
+span {
+    color: slategray;
+}
+
+.card-main {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 300px;
+}
+
+#top {
+    width: 100%;
+    height: 1000px;
+    background-image: url(https://img-fotki.yandex.ru/get/17846/200418627.7f/0_120402_6436404c_orig.png);
+    /*background-blend-mode: multiply;*/
+    background-color: #2e3a44;
+    background-size: cover;
+    text-align: right;
+    color: #fff;
+}
+
+
+hr {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border-style: dotted;
+    border-width: 0.5px;
+    width: 80%;
+    color: grey;
+}
+
+mark {
+    background-color: azure;
+    color: black;
+    margin-left: 550px;
+    font-family: "apercu", sans-serif;
+    position: relative;
+    z-index: 2;
+}
+
+.logo {
+    position: absolute;
+    top: 151px;
+    left: 55px;
+    width: 517px;
+}
+}
+
+span {
+    color: black;
+}
+
+}
+
+.black1 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+
+}
+
+.grey1 {
+    background-color: snow;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    border: solid;
+}
+
+.black2 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+
+}
+
+.grey2 {
+    background-color: snow;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    border: solid;
+}
+
+.black3 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+
+}
+
+.grey3 {
+    background-color: snow;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    border: solid;
+}
+
+.black4 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+
+}
+
+
+
+.grey4 {
+    background-color: snow;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    border: solid;
+}
+
+
+
+.black5 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+
+
+}
+
+.grey5 {
+    background-color: snow;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    border: solid;
+}
+
+.black6 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+
+}
+
+.grey6 {
+    background-color: snow;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    border: solid;
+}
+
+.black7 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+
+}
+
+
+}
+
+.dog {
+    width: 349px;
+}
+
+.main {
+    margin-left: 400px;
+    margin-right: 300px;
+    margin-bottom: 150px;
+    border-bottom-width: 50px;
+    padding-top: 50px;
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 1051px;
+    left: 102px;
+
+
+
+}
+
+ol {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+    display: inline-block;
+    color: slategrey;
+}
+
+ul {
+    font-size: 25px;
+    font-family: -webkit-pictograph;
+    color: midnightblue;
+    font-style: oblique;
+}
+
+a {
+    color: dimgrey;
+}
+
+.contact {
+    margin-left: 20px;
+    margin-top: 120px;
+    margin-right: 0.5px;
+}
+
+table {
+    margin-top: 38px;
+    margin-left: 160px;
+    margin-bottom: 44px;
+}
+
+form {
+    margin-left: 161px;
+    margin-bottom: 59px;
+    padding-top: 0px;
+    width: 189px;
+}
+
+.inf {
+    margin-left: 119px;
+
+}
+
+audio {
+    width: 266px;
+    height: 27px;
+}
+
+h1 {
+    color: black;
+    margin-top: 30px;
+    font-family: 'Yusei Magic', sans-serif;
+
+}
+
+.hobby {
+    position: absolute;
+    font-size: 156px;
+    color: snow;
+    margin-top: 150px;
+    left: 754px;
+}
+
+.line-hobby {
+    background-color: black;
+    width: 100em;
+    height: 350px;
+    border: solid;
+    position: absolute;
+}
+
+.top-line2 {
+    margin-top: 547px;
+    background-color: azure;
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    background-color: #343a40;
+    top: 2643px;
+
+
+}
+
+.top-line {
+    ;
+    background-color: azure;
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    background-color: #343a40;
+    top: 2643px;
+
+
+}
+
+.hobbyBody {
+    background-color: snow;
+}
+
+.buk {
+    width: 545px;
+    height: 451px;
+    margin-top: 150px;
+    position: absolute;
+}
+
+.dorama {
+    margin-top: 636px;
+    margin-left: 300px;
+    border: solid;
+    width: 971px;
+}
+
+.photogirl {
+    /*    position: absolute;*/
+    border: solid;
+    width: 711px;
+    margin-top: 220px;
+    margin-left: 350px;
+
+}
+
+.dance {
+    width: 1000px;
+    margin-left: 250px;
+    margin-top: 30px;
+    border: solid;
+}
+
+.paintanime {
+
+    margin-top: 150px;
+    margin-left: 250px;
+    width: 818px;
+    /*    position: absolute;*/
+    border: solid;
+}
+
+.fab fa-instagram-square {
+    background-color: azure;
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    background-color: white;
+    top: 2643px;
+
+}
+
+.row {
+
+    margin-left: 1140px;
+}
+
+.fam{
+    font-size:20px;
+    font-family: monospace;
+    background-color: cadetblue;
+}
